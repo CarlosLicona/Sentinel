@@ -24,3 +24,6 @@ media/
 
 # Mac
 .DS_Store
+
+# Virtual environment
+services/web/venv/
